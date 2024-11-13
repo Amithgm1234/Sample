@@ -1,1 +1,6 @@
 Hai
+
+Class main{
+int i=1;
+int j=4;
+}
